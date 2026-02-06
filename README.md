@@ -70,7 +70,7 @@
 **Install from source** (latest features, recommended for development)
 
 ```bash
-git clone https://github.com/HKUDS/nanobot.git
+git clone https://github.com/drposter/nanobot
 cd nanobot
 pip install -e .
 ```
